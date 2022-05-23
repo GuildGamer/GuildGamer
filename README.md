@@ -5,8 +5,8 @@
 - I'm not the most social person but I try 🤷‍♂️
 - I'm currently working on a few personal projects I actually enjoy one of which is an AI(NLP) 💻 🤖
 - You can reach me via: tobi4steve@gmail.com 📫 ✉️
-  - If you are a recruiter please use the title "Job Offer/Proposal" 🕴️
-  - If you are a potential friend please use the title "Your Github friend(maybe)" 🙂
+  - If you are a recruiter please use the subject "Job Offer/Proposal" 🕴️
+  - If you are a potential friend please use the subject "Your Github friend(maybe)" 🙂
 - I'm open to making friends with other developers who actually enjoy what they do 🤝
 - My Nickname is Anorak 🧙‍♂️
 - Lastly, my favourite Greek god is Posiedon. 🔱
