@@ -1,15 +1,15 @@
 ### Hi! The Name is Tobi👋
 
-I really enjoy being the best at things :rocket:
-I'm constantly working towards a goal of some sort :rocket:
-I'm not the most social person but I try :man_shrugging:
-I'm currently working on a few personal projects I actually enjoy one of which is an AI(NLP)
-You can reach me via: tobi4steve@gmail.com
-  - If you are a recruiter please use the title "Job Offer/Proposal"
-  - If you are a potential friend please use the title "Your Github friend(maybe)"
-I'm open to making friends with other developers who actually enjoy what they do
-My Nickname is Anorak
-Lastly, my favourite Greek god is Posiedon.
+- I really enjoy being the best at things 🚀
+- I'm constantly working towards a goal of some sort 🎯
+- I'm not the most social person but I try 🤷‍♂️
+- I'm currently working on a few personal projects I actually enjoy one of which is an AI(NLP) 💻 🤖
+- You can reach me via: tobi4steve@gmail.com 📫 ✉️
+  - If you are a recruiter please use the title "Job Offer/Proposal" 🕴️
+  - If you are a potential friend please use the title "Your Github friend(maybe)" 🙂
+- I'm open to making friends with other developers who actually enjoy what they do 🤝
+- My Nickname is Anorak 🧙‍♂️
+- Lastly, my favourite Greek god is Posiedon. 🔱
 <!--
 **GuildGamer/GuildGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
