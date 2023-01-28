@@ -1,6 +1,6 @@
 ### Tobi🚀
 
-- I'm currently working on a few personal projects one of which is an AI(NLP) 💻 🤖
+- Interested in business-oriented products and environmental/eco-friendly tech
 - You can reach me via: tobi4steve@gmail.com 📫 ✉️
   - If you are a recruiter please use the subject "Job Offer/Proposal" 🕴️
   - If you are a potential friend please use the subject "Your Github Friend(maybe)" 🙂
