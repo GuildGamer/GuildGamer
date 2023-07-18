@@ -1,7 +1,7 @@
 ### Tobi🚀
 
 - Interested in business-oriented products and environmental/eco-friendly tech
-- You can reach me via: tobi4steve@gmail.com 📫 ✉️
+- You can reach me via: nurulmasihumar@starkpay.africa 📫 ✉️
   - If you are a recruiter please use the subject "Job Offer/Proposal" 🕴️
   - If you are a potential friend please use the subject "Your Github Friend(maybe)" 🙂
 - I'm open to making friends with other developers who enjoy what they do 🤝
